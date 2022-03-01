@@ -1,7 +1,6 @@
 name: f_color_plugin
 description: A Color parse Flutter package project, it works on iOS and Android.
 version: 1.0.0
-author: niumenglin <799928248@qq.com>
 homepage: https://github.com/niumenglin/f_color_plugin
 
 environment:
